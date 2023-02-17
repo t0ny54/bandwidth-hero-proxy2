@@ -8,11 +8,11 @@
   "keywords": ["proxy", "compression", "data saving", "compress image", "webp"],
   "env": {
     "LOGIN": {
-      "description": "If you want to password-protect your service, set your login here.",
+      "description": "root",
       "required": true
     },
     "PASSWORD": {
-      "description": "If you want to password-protect your service, set your password here.",
+      "description": "root",
       "required": true
     }
   }
