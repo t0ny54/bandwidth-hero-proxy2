@@ -9,11 +9,11 @@
   "env": {
     "LOGIN": {
       "description": "If you want to password-protect your service, set your login here.",
-      "required": false
+      "required": true
     },
     "PASSWORD": {
       "description": "If you want to password-protect your service, set your password here.",
-      "required": false
+      "required": true
     }
   }
 }
